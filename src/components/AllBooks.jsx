@@ -3,7 +3,7 @@ import BookCard from "./bookCard";
 
 function AllBooks() {
   return (
-    <div className="wrapper h-full p-5 text-black bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-lg w-screen mb-10 ">
+    <div className="wrapper h-full p-7 text-black bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-lg w-screen mb-10 ">
       <div className="artwork title mb-14 mt-10 ml-4 text-4xl font-extrabold ">
         <h1>ArtWork 📚</h1>
       </div>
